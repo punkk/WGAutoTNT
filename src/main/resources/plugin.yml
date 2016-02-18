@@ -1,0 +1,6 @@
+name: WGAutoTNT
+main: mc.punk.autotnt.WGAutoTNTPlugin
+version: 1.0
+author: punkhazard
+description: Custom flag to auto-ignite TNT on placement
+depend: [WorldGuard]
